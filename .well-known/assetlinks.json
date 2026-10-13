@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "org.managalas.mcapp",
+    "sha256_cert_fingerprints": [
+      "4A:EA:5E:44:EF:78:E0:02:00:4B:D5:95:22:BD:F3:87:0B:A0:78:06:44:56:C3:31:68:E0:0B:DA:F2:6D:09:57"
+    ]
+  }
+}]
